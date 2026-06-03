@@ -1,0 +1,1 @@
+var json_Cismea_14 = {"type":"FeatureCollection","name":"Cismea_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":547.0,"layer":"Cismea","name":"B64"},"geometry":{"type":"Point","coordinates":[24.978341994776713,46.089584353643744]}}]}

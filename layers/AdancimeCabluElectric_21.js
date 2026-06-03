@@ -1,0 +1,1 @@
+var json_AdancimeCabluElectric_21 = {"type":"FeatureCollection","name":"AdancimeCabluElectric_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"FID":"0","Adancime":"-0.35m"},"geometry":{"type":"Point","coordinates":[24.976793322799114,46.088649698819999]}}]}
